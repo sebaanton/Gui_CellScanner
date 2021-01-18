@@ -15,7 +15,7 @@ from mayavi import mlab
 from tvtk.tools import visual
 
 from PIL import Image
-
+qtCreatorFile = "Cellscanner.ui" 
 
 Ui_MainWindow, QtBaseClass = uic.loadUiType(qtCreatorFile)
 
